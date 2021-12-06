@@ -1,0 +1,7 @@
+C:\Users\Developer\source\repos\Key Reader Pro\bin\Debug\Key Reader Pro.exe.config
+C:\Users\Developer\source\repos\Key Reader Pro\bin\Debug\Key Reader Pro.exe
+C:\Users\Developer\source\repos\Key Reader Pro\bin\Debug\Key Reader Pro.pdb
+C:\Users\Developer\source\repos\Key Reader Pro\obj\Debug\Key Reader Pro.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Key Reader Pro\obj\Debug\Key Reader Pro.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Key Reader Pro\obj\Debug\Key Reader Pro.exe
+C:\Users\Developer\source\repos\Key Reader Pro\obj\Debug\Key Reader Pro.pdb
